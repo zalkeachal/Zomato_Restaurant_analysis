@@ -6,3 +6,4 @@ o	Utilized statistical techniques, and applied advanced excel formulas and VLOOK
 o	Utilized Pivot Tables and Pivot Charts to summarize and visualize key metrics such as ratings, reviews, and cuisine preferences.
 o	Created interactive dashboards to present the key findings 
 o	Improved decision-making processes for country and city selection and marketing strategies based on data-driven insights.
+
